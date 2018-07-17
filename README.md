@@ -1,3 +1,5 @@
+This repo/data has many matfiles that are generally needed for ML problems. USPS.mat, etc.
+
 scikit-feature
 ===============================
 Feature selection repository scikit-feature in Python (DMML Lab@ASU). 
